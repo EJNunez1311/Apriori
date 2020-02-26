@@ -1,0 +1,12 @@
+C:\Users\Home\Desktop\AprioriAlgorithm-master\AprioriAlgorithm-master\Apriori\bin\Debug\Apriori.exe.config
+C:\Users\Home\Desktop\AprioriAlgorithm-master\AprioriAlgorithm-master\Apriori\bin\Debug\Apriori.exe
+C:\Users\Home\Desktop\AprioriAlgorithm-master\AprioriAlgorithm-master\Apriori\bin\Debug\Apriori.pdb
+C:\Users\Home\Desktop\AprioriAlgorithm-master\AprioriAlgorithm-master\Apriori\obj\Debug\Apriori.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\AprioriAlgorithm-master\AprioriAlgorithm-master\Apriori\obj\Debug\Apriori.exe
+C:\Users\Home\Desktop\AprioriAlgorithm-master\AprioriAlgorithm-master\Apriori\obj\Debug\Apriori.pdb
+C:\Users\Home\Desktop\Apriori\Apriori\bin\Debug\Apriori.exe.config
+C:\Users\Home\Desktop\Apriori\Apriori\bin\Debug\Apriori.exe
+C:\Users\Home\Desktop\Apriori\Apriori\bin\Debug\Apriori.pdb
+C:\Users\Home\Desktop\Apriori\Apriori\obj\Debug\Apriori.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\Apriori\Apriori\obj\Debug\Apriori.exe
+C:\Users\Home\Desktop\Apriori\Apriori\obj\Debug\Apriori.pdb
